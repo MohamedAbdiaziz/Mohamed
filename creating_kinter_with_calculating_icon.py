@@ -1,7 +1,7 @@
 from tkinter import *
 root=Tk()
 root.title("sample calculator")
-root.iconbitmap("mohamed's icon.ico")
+root.iconbitmap("user.ico")
 # creating entry
 enter=Entry(root,width=35,borderwidth=5)
 # place of entry
